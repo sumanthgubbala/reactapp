@@ -1,0 +1,37 @@
+header{
+  position: fixed;
+  width: 100%;
+}
+section{
+  padding: 100px;
+  text-align: center;
+}
+body{
+  text-align: center;
+}
+footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: rgb(17, 17, 17);
+  background-color: white;
+}
+.main{
+  width: 100%;
+  display: flex;
+  
+}
+.sv{
+  width: 30%;
+}
+.ai{
+  width: 30%;
+}
+.li{
+  width: 40%;
+}
+.container-2{
+  width: 100%;
+  display: flex;
+  padding: 10%;
+}
